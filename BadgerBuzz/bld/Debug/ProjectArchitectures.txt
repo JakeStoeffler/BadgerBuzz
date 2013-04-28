@@ -1,0 +1,1 @@
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\BadgerBuzz.jsproj;neutral

@@ -1,0 +1,13 @@
+C:\Users\Jake Stoeffler\AppData\Local\Temp\BadgerBuzz\bin\Debug\resources.pri
+C:\Users\Jake Stoeffler\AppData\Local\Temp\BadgerBuzz\bin\Debug\AppxManifest.xml
+C:\Users\Jake Stoeffler\AppData\Local\Temp\BadgerBuzz\bin\Debug\BadgerBuzz.build.appxrecipe
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\bld\Debug\priconfig.xml
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\bld\Debug\layout.resfiles
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\bld\Debug\resources.resfiles
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\bld\Debug\pri.resfiles
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\bld\Debug\LanguageQualifiers.txt
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\bld\Debug\ProjectArchitectures.txt
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\bld\Debug\priconfig.xml.intermediate
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\bld\Debug\layout.resfiles.intermediate
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\bld\Debug\resources.resfiles.intermediate
+\\vmware-host\Shared Folders\Jake On My Mac\Dev\Hackathon-Microsoft-2013-04-27\BadgerBuzz\BadgerBuzz\bld\Debug\pri.resfiles.intermediate
